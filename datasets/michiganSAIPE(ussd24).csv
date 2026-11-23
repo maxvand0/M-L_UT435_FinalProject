@@ -1,0 +1,541 @@
+total_population,state,distid,name,STABREV,poverty_child5-17,population_child5-17
+2865,26,01890,Adams Township School District,MI,32,561
+7783,26,01920,Addison Community Schools,MI,107,1142
+28880,26,01950,Adrian City School District,MI,526,4348
+21003,26,01980,Airport Community School District,MI,434,3469
+2855,26,02010,Akron-Fairgrove Schools,MI,50,404
+3927,26,21810,Alanson Public Schools,MI,71,595
+1498,26,02040,Alba Public Schools,MI,26,218
+6996,26,02160,Alcona Community Schools,MI,120,648
+14468,26,02190,Algonac Community School District,MI,174,1676
+18188,26,02220,Allegan Public Schools,MI,336,2915
+20324,26,02520,Allen Park Public Schools,MI,321,3175
+27470,26,02550,Allendale Public School District,MI,280,3261
+15203,26,02640,Alma Public Schools,MI,476,2743
+9048,26,02670,Almont Community Schools,MI,83,1421
+30423,26,02730,Alpena Public Schools,MI,826,4148
+36297,26,02790,Anchor Bay School District,MI,373,5823
+177727,26,02820,Ann Arbor Public Schools,MI,1511,20099
+9083,26,03240,Armada Area Schools,MI,63,1411
+493,26,03270,Arvon Township School District,MI,6,44
+1776,26,03480,Ashley Community Schools,MI,51,275
+4707,26,03510,Athens Area Schools,MI,62,796
+7337,26,03540,Atherton Community Schools,MI,264,1078
+3483,26,03570,Atlanta Community Schools,MI,75,358
+3967,26,03600,Au Gres-Sims School District,MI,86,458
+841,26,03660,Autrain-Onota Public Schools,MI,8,68
+28126,26,03690,Avondale School District,MI,231,3525
+6141,26,00017,Bad Axe Public Schools,MI,162,925
+9518,26,03810,Baldwin Community Schools,MI,347,905
+7343,26,03870,Bangor Public Schools,MI,332,1327
+248,26,03960,Bangor Township School District 8,MI,1,40
+13882,26,03900,Bangor Township Schools,MI,302,1835
+3739,26,03990,Baraga Area Schools,MI,84,443
+3361,26,04020,Bark River-Harris School District,MI,108,571
+9011,26,04170,Bath Community Schools,MI,115,1226
+41669,26,00005,Battle Creek Public Schools,MI,2024,7200
+69016,26,04260,Bay City School District,MI,1426,9995
+2824,26,04290,Beal City Public Schools,MI,37,474
+2201,26,04320,Bear Lake School District,MI,67,334
+526,26,04350,Beaver Island Community School,MI,11,48
+10224,26,04440,Beaverton Rural Schools,MI,323,1477
+32400,26,04470,Bedford Public Schools,MI,323,5191
+8362,26,04500,Beecher Community School District,MI,830,1645
+13070,26,04530,Belding Area School District,MI,276,2199
+3989,26,04620,Bellaire Public Schools,MI,58,409
+5463,26,04650,Bellevue Community Schools,MI,114,864
+5654,26,04740,Bendle Public Schools,MI,321,941
+6634,26,04800,Bentley Community Schools,MI,211,1014
+28883,26,04830,Benton Harbor Area Schools,MI,1745,5258
+15137,26,04950,Benzie County Central School,MI,294,2010
+28195,26,05010,Berkley School District,MI,208,4283
+287,26,05100,Berlin Township School District 3,MI,4,54
+12857,26,05430,Berrien Springs Public Schools,MI,230,1871
+2907,26,00006,Bessemer Area School District,MI,90,398
+2193,26,05690,Big Bay de Noc School District,MI,48,208
+493,26,00105,Big Jackson School District,MI,13,71
+16692,26,05780,Big Rapids Public Schools,MI,448,2095
+8846,26,05820,Birch Run Area School District,MI,169,1317
+60789,26,05850,Birmingham City School District,MI,261,10656
+6795,26,06000,Blissfield Community Schools,MI,70,1120
+41245,26,06090,Bloomfield Hills School District,MI,257,7131
+7346,26,06270,Bloomingdale Public School District,MI,282,1330
+103,26,06300,Bois Blanc Pines School District,MI,0,2
+8363,26,06500,Boyne City Public Schools,MI,134,1073
+1909,26,06510,Boyne Falls Public School District,MI,23,253
+17244,26,06570,Brandon School District,MI,190,2709
+8987,26,06600,Brandywine Community Schools,MI,199,1384
+5376,26,06630,Breckenridge Community Schools,MI,115,798
+11016,26,06720,Breitung Township Schools,MI,143,1619
+14996,26,06780,Bridgeport-Spaulding Community School District,MI,701,2321
+4996,26,06840,Bridgman Public Schools,MI,73,769
+38597,26,06870,Brighton Area Schools,MI,162,5717
+3239,26,06900,Brimley Area Schools,MI,63,541
+3740,26,06930,Britton Deerfield School District,MI,36,559
+7595,26,06960,Bronson Community School District,MI,215,1375
+5089,26,07040,Brown City Community School District,MI,179,843
+10729,26,07140,Buchanan Community School District,MI,188,1698
+3061,26,07170,Buckley Community School District,MI,78,546
+9534,26,07320,Bullock Creek School District,MI,180,1529
+1786,26,07410,Burr Oak Community School District,MI,54,367
+404,26,07470,Burt Township School District,MI,8,31
+6353,26,07530,Byron Area Schools,MI,94,996
+28781,26,07560,Byron Center Public Schools,MI,241,5727
+22134,26,07590,Cadillac Area Public Schools,MI,583,3498
+27824,26,07620,Caledonia Community Schools,MI,211,5478
+8261,26,07690,Calumet Public Schools,MI,218,1384
+3806,26,07710,Camden-Frontier School District,MI,199,720
+8550,26,07800,Capac Community School District,MI,127,1439
+31090,26,07890,Carman-Ainsworth Community School District,MI,1389,4617
+1457,26,08010,Carney-Nadeau Public Schools,MI,16,199
+11229,26,08040,Caro Community Schools,MI,238,1569
+5677,26,08070,Carrollton School District,MI,208,869
+13487,26,08130,Carson City-Crystal Area School District,MI,257,1413
+3412,26,08160,Carsonville-Port Sanilac School District,MI,112,494
+1998,26,08280,Caseville Public Schools,MI,17,163
+8022,26,08400,Cass City Public Schools,MI,267,1321
+8305,26,08430,Cassopolis Public Schools,MI,181,1150
+21553,26,08520,Cedar Springs Public Schools,MI,283,3929
+20465,26,08580,Center Line Public Schools,MI,725,3092
+3445,26,08610,Central Lake Public Schools,MI,56,400
+11424,26,08640,Central Montcalm Public Schools,MI,342,1748
+4667,26,08670,Centreville Public Schools,MI,120,831
+8521,26,08730,Charlevoix Public Schools,MI,79,974
+19337,26,08770,Charlotte Public Schools,MI,279,3059
+1912,26,08880,Chassell Township School District,MI,29,344
+14023,26,08910,Cheboygan Area Schools,MI,299,1619
+16953,26,08940,Chelsea School District,MI,103,2674
+11232,26,09150,Chesaning Union Schools,MI,225,1736
+20224,26,09560,Chippewa Hills School District,MI,563,2794
+106889,26,09570,Chippewa Valley Schools,MI,1716,16820
+101,26,09630,Church School District,MI,2,9
+8775,26,09750,Clare Public Schools,MI,364,1579
+11705,26,09840,Clarenceville School District,MI,245,1387
+45647,26,09900,Clarkston Community School District,MI,333,7825
+11754,26,09930,Clawson City School District,MI,42,1149
+3869,26,10020,Climax-Scotts Community School District,MI,37,621
+6072,26,10050,Clinton Community Schools,MI,62,965
+15518,26,10080,Clintondale Community Schools,MI,612,2568
+19847,26,10110,Clio Area School District,MI,455,2914
+24270,26,10140,Coldwater Community Schools,MI,639,3646
+5889,26,10200,Coleman Community School District,MI,138,886
+178,26,10230,Colfax Township School District 1F,MI,4,19
+9223,26,10380,Coloma Community Schools,MI,208,1376
+5614,26,10410,Colon Community School District,MI,201,1009
+11564,26,06990,Columbia School District,MI,124,1515
+14876,26,10620,Comstock Park Public Schools,MI,275,2405
+16595,26,10590,Comstock Public Schools,MI,381,2455
+4967,26,10650,Concord Community Schools,MI,75,867
+7663,26,10750,Constantine Public School District,MI,224,1248
+14660,26,10830,Coopersville Public School District,MI,231,2918
+9560,26,10860,Corunna Public School District,MI,210,1331
+2805,26,10980,Covert Public Schools,MI,126,542
+11916,26,11030,Crawford AuSable Schools,MI,315,1622
+31464,26,00016,Crestwood School District,MI,1954,5899
+13311,26,11140,Croswell-Lexington Community School District,MI,313,1890
+4874,26,11400,Dansville Schools,MI,65,829
+32709,26,11430,Davison Community Schools,MI,629,5191
+1918,26,11970,DeTour Area Schools,MI,19,170
+15531,26,11550,DeWitt Public Schools,MI,86,2971
+117814,26,11600,Dearborn City School District,MI,8752,24076
+13047,26,11610,Dearborn Heights School District 7,MI,700,2211
+5338,26,11670,Decatur Public Schools,MI,154,875
+3993,26,11700,Deckerville Community School District,MI,134,603
+11863,26,11910,Delton-Kellogg School District,MI,179,1558
+631184,26,01103,Detroit Public Schools Community District,MI,54292,115752
+21724,26,12030,Dexter Community School District,MI,106,4064
+1911,26,26940,Dollar Bay-Tamarack City Area Schools,MI,18,357
+14909,26,12150,Dowagiac Union Schools,MI,493,2195
+4546,26,12240,Dryden Community Schools,MI,56,637
+10226,26,12300,Dundee Community Schools,MI,133,1758
+10514,26,12330,Durand Area Schools,MI,210,1458
+29165,26,12420,East China School District,MI,378,4398
+12385,26,12480,East Grand Rapids Public School District,MI,48,2999
+8231,26,12540,East Jackson Community Schools,MI,244,1257
+6605,26,12560,East Jordan Public Schools,MI,131,1007
+55521,26,12600,East Lansing School District,MI,438,4061
+402,26,12660,Easton Township School District 6,MI,9,61
+39986,26,12450,Eastpointe Community Schools,MI,1862,7158
+17225,26,12690,Eaton Rapids Public Schools,MI,244,2838
+3358,26,12810,Eau Claire Public Schools,MI,77,568
+8554,26,12930,Ecorse Public School District,MI,782,1657
+12355,26,12990,Edwardsburg Public Schools,MI,222,2092
+9072,26,13050,Elk Rapids Schools,MI,122,1143
+6501,26,13090,Elkton-Pigeon-Bay Port Schools,MI,156,987
+1697,26,13110,Ellsworth Community Schools,MI,37,240
+208,26,13140,Elm River Township School District,MI,3,11
+2007,26,15600,Engadine Consolidated Schools,MI,77,243
+19781,26,13500,Escanaba Area Public Schools,MI,409,2857
+8552,26,13530,Essexville-Hampton Public Schools,MI,136,1344
+6812,26,13560,Evart Public Schools,MI,217,1066
+2170,26,00014,Ewen-Trout Creek Consolidated Schools,MI,29,187
+375,26,13680,Excelsior Township School District 1,MI,12,63
+2935,26,10560,Fairview Area School District,MI,117,433
+90892,26,14070,Farmington Public School District,MI,697,12258
+11165,26,14100,Farwell Area Schools,MI,377,1513
+9573,26,14230,Fennville Public Schools,MI,210,1588
+21540,26,14250,Fenton Area Public Schools,MI,239,3314
+24274,26,14280,Ferndale Public Schools,MI,212,2439
+17761,26,14460,Fitzgerald Public Schools,MI,867,3061
+11282,26,07080,Flat Rock Community Schools,MI,288,2064
+80406,26,14520,Flint City School District,MI,6695,14227
+26988,26,14550,Flushing Community Schools,MI,624,4524
+4901,26,14570,Forest Area Community Schools,MI,118,782
+53332,26,14610,Forest Hills Public Schools,MI,368,10883
+4355,26,11190,Forest Park School District,MI,76,541
+2570,26,14700,Fowler Public Schools,MI,14,447
+17046,26,14730,Fowlerville Community Schools,MI,195,2786
+9520,26,14760,Frankenmuth School District,MI,51,1433
+3709,26,14790,Frankfort-Elberta Area Schools,MI,44,352
+29334,26,14820,Fraser Public Schools,MI,543,4132
+12702,26,15060,Freeland Community School District,MI,109,2101
+14611,26,15150,Fremont Public School District,MI,304,2495
+19822,26,15390,Fruitport Community Schools,MI,356,3219
+4491,26,15420,Fulton Schools,MI,71,638
+7370,26,15450,Galesburg-Augusta Community School District,MI,101,1276
+27555,26,15540,Garden City School District,MI,737,3995
+21901,26,15730,Gaylord Community Schools,MI,415,3447
+2945,26,15750,Genesee School District,MI,123,494
+21787,26,15870,Gibraltar School District,MI,343,3613
+9729,26,15970,Gladstone Area Schools,MI,167,1489
+13843,26,15990,Gladwin Community Schools,MI,451,2044
+5462,26,16020,Glen Lake Community Schools,MI,50,641
+415,26,15510,Glenn Public School District,MI,3,42
+5882,26,16050,Gobles Public School District,MI,149,991
+8102,26,16080,Godfrey-Lee Public Schools,MI,336,1646
+12531,26,16110,Godwin Heights Public Schools,MI,355,2074
+10897,26,16320,Goodrich Area Schools,MI,92,1945
+51582,26,16350,Grand Blanc Community Schools,MI,873,8490
+45235,26,16380,Grand Haven Area Public Schools,MI,633,6812
+36013,26,16410,Grand Ledge Public Schools,MI,293,5343
+195846,26,16440,Grand Rapids Public Schools,MI,5433,28040
+42074,26,16470,Grandville Public Schools,MI,463,7092
+10175,26,16500,Grant Public School District,MI,214,1906
+251,26,16560,Grant Township School District 2,MI,3,23
+7118,26,16830,Grass Lake Community Schools,MI,55,1069
+24697,26,17160,Greenville Public Schools,MI,594,4005
+10653,26,17220,Grosse Ile Township Schools,MI,70,1786
+51891,26,25740,Grosse Pointe Public Schools,MI,486,9146
+20524,26,17250,Gull Lake Community Schools,MI,167,3571
+10324,26,14690,Gwinn Area Community Schools,MI,228,1686
+513,26,17340,Hagar Township School District 6,MI,9,64
+4511,26,17370,Hale Area Schools,MI,138,524
+16168,26,17400,Hamilton Community Schools,MI,131,2928
+28076,26,17520,Hamtramck Public Schools,MI,3394,6494
+7008,26,17550,Hancock Public Schools,MI,97,969
+6838,26,17640,Hanover-Horton Schools,MI,84,1037
+4276,26,00007,Harbor Beach Community Schools,MI,106,659
+7129,26,17700,Harbor Springs School District,MI,59,844
+15311,26,17730,Harper Creek Community Schools,MI,270,2433
+9302,26,17760,Harper Woods City Schools,MI,629,1825
+13113,26,17820,Harrison Community Schools,MI,562,1634
+7839,26,17860,Hart Public School District,MI,206,1137
+6297,26,17880,Hartford Public School District,MI,301,1220
+30175,26,17910,Hartland Consolidated Schools,MI,208,5319
+16664,26,17940,Haslett Public Schools,MI,181,2616
+20364,26,17970,Hastings Area School District,MI,334,3135
+19569,26,18030,Hazel Park City School District,MI,392,2067
+9007,26,18180,Hemlock Public School District,MI,122,1405
+5505,26,18270,Hesperia Community Schools,MI,164,881
+8864,26,18330,Highland Park City Schools,MI,677,1388
+3681,26,18360,Hillman Community Schools,MI,97,452
+14367,26,18390,Hillsdale Community Schools,MI,349,2267
+38724,26,18420,Holland City School District,MI,752,5582
+29360,26,18450,Holly Area School District,MI,368,4712
+31484,26,18480,Holt Public Schools,MI,615,5272
+6594,26,18510,Holton Public Schools,MI,228,1125
+4561,26,18540,Homer Community Schools,MI,105,897
+8945,26,18570,Hopkins Public Schools,MI,104,1674
+15197,26,18600,Houghton Lake Community School District,MI,411,1672
+11273,26,28890,Houghton-Portage Township Schools,MI,113,1053
+59946,26,18720,Howell Public Schools,MI,475,8615
+5855,26,18810,Hudson Area Schools,MI,128,1024
+48442,26,18840,Hudsonville Public School District,MI,421,9843
+14615,26,18930,Huron School District,MI,283,2562
+60075,26,18990,Huron Valley Schools,MI,571,9343
+7967,26,19050,Ida Public School District,MI,63,1348
+12200,26,19100,Imlay City Community Schools,MI,215,1817
+6056,26,19170,Inland Lakes Schools,MI,97,678
+23567,26,19250,Ionia Public Schools,MI,430,2943
+931,26,19290,Ionia Township School District 2,MI,35,163
+7506,26,19410,Iron Mountain Public Schools,MI,180,1180
+7441,26,19470,Ironwood Area Schools,MI,248,949
+6606,26,19530,Ishpeming Public School District,MI,126,942
+7241,26,19580,Ithaca Public Schools,MI,131,1010
+53599,26,19620,Jackson Public Schools,MI,1689,8433
+12401,26,19800,Jefferson Schools,MI,208,1803
+29349,26,19830,Jenison Public Schools,MI,318,5087
+6282,26,19890,Johannesburg-Lewiston Area School District,MI,146,789
+5924,26,19920,Jonesville Community Schools,MI,130,991
+110797,26,19950,Kalamazoo Public School District,MI,2466,15139
+5755,26,20010,Kaleva Norman Dickson School District,MI,175,757
+13703,26,20050,Kalkaska Public Schools,MI,312,2004
+16606,26,20070,Kearsley Community Schools,MI,603,2678
+13895,26,20160,Kelloggsville Public Schools,MI,444,2329
+26782,26,20280,Kenowa Hills Public Schools,MI,313,4094
+8194,26,20310,Kent City Community Schools,MI,125,1609
+71916,26,20340,Kentwood Public Schools,MI,1934,12115
+8013,26,20380,Kingsley Area Schools,MI,109,1467
+3281,26,20400,Kingston Community School District,MI,53,463
+4545,26,00018,L'Anse Area Schools,MI,119,616
+71566,26,21870,L'Anse Creuse Public Schools,MI,1106,10437
+6141,26,20550,Laingsburg Community School District,MI,64,1039
+8278,26,20610,Lake City Area School District,MI,184,1268
+12347,26,20670,Lake Fenton Community Schools,MI,132,1925
+3925,26,20700,Lake Linden-Hubbell School District,MI,61,605
+44603,26,20730,Lake Orion Community Schools,MI,233,7543
+22320,26,32670,Lake Shore Public Schools,MI,250,2729
+17922,26,20820,Lakeshore School District,MI,209,2944
+10589,26,20910,Lakeview Community Schools,MI,432,1764
+19789,26,20880,Lakeview Public Schools,MI,236,2602
+23631,26,20850,Lakeview School District,MI,498,4058
+11755,26,20940,Lakeville Community Schools,MI,266,1731
+13093,26,20980,Lakewood Public Schools,MI,186,2148
+16711,26,21120,Lamphere Public Schools,MI,221,1857
+120681,26,21150,Lansing Public School District,MI,4769,17534
+42021,26,21180,Lapeer Community Schools,MI,640,5778
+3931,26,21210,Lawrence Public School District,MI,156,715
+5859,26,21240,Lawton Community School District,MI,143,1020
+3539,26,21390,Leland Public School District,MI,20,398
+2211,26,21420,Les Cheneaux Community Schools,MI,40,238
+7213,26,21450,Leslie Public Schools,MI,119,1219
+33071,26,21570,Lincoln Consolidated School District,MI,765,5762
+39740,26,21600,Lincoln Park Public Schools,MI,1736,6991
+19326,26,21690,Linden Community Schools,MI,208,3129
+3210,26,21750,Litchfield Community Schools,MI,82,513
+113239,26,21840,Livonia Public Schools,MI,1384,15842
+22650,26,22050,Lowell Area Schools,MI,198,4288
+16001,26,22200,Ludington Area School District,MI,291,2175
+600,26,22230,Mackinac Island Public Schools,MI,6,52
+1281,26,22260,Mackinaw City Public Schools,MI,13,115
+12098,26,22290,Madison Public Schools,MI,200,1311
+7606,26,22320,Madison School District,MI,142,925
+7059,26,22350,Mancelona Public Schools,MI,161,993
+7220,26,22380,Manchester Community Schools,MI,79,1051
+13110,26,22410,Manistee Area Schools,MI,278,1508
+7382,26,22470,Manistique Area Schools,MI,209,1013
+5733,26,22500,Manton Consolidated Schools,MI,193,1126
+8128,26,22620,Maple Valley Schools,MI,194,1411
+1600,26,22830,Mar Lee School District,MI,27,284
+5057,26,22740,Marcellus Community Schools,MI,138,771
+4149,26,22800,Marion Public Schools,MI,117,576
+6387,26,22860,Marlette Community Schools,MI,214,1050
+32599,26,00013,Marquette Area Public Schools,MI,259,3414
+24045,26,22970,Marshall Public Schools,MI,601,3949
+5058,26,22980,Martin Public Schools,MI,78,871
+13923,26,23040,Marysville Public Schools,MI,158,2239
+7544,26,23100,Mason Consolidated Schools,MI,129,1117
+8101,26,23130,Mason County Central Schools,MI,181,1268
+4893,26,23160,Mason County Eastern District,MI,145,784
+20557,26,23070,Mason Public Schools,MI,267,3498
+20843,26,23250,Mattawan Consolidated School,MI,213,4282
+6477,26,23280,Mayville Community School District,MI,128,976
+5837,26,23310,McBain Rural Agricultural Schools,MI,120,1090
+19155,26,23460,Melvindale-North Allen Park School District,MI,1313,3714
+5602,26,23490,Memphis Community Schools,MI,71,882
+3390,26,23520,Mendon Community School District,MI,58,551
+11792,26,23550,Menominee Area Public Schools,MI,246,1456
+10117,26,23580,Meridian Public Schools,MI,148,1390
+4714,26,23610,Merrill Community Schools,MI,81,701
+5787,26,23670,Mesick Consolidated Schools,MI,176,983
+7567,26,23790,Michigan Center School District,MI,130,1200
+1654,26,23830,Mid Peninsula School District,MI,14,200
+54102,26,23820,Midland Public Schools,MI,702,8543
+16919,26,23850,Milan Area Schools,MI,168,2194
+8715,26,23910,Millington Community Schools,MI,161,1259
+5057,26,24000,Mio-AuSable Schools,MI,210,754
+24146,26,24120,Mona Shores Public School District,MI,421,3785
+49247,26,24150,Monroe Public Schools,MI,1130,7257
+7885,26,12960,Montabella Community Schools,MI,266,1321
+8763,26,24180,Montague Area Public Schools,MI,235,1436
+7652,26,24420,Montrose Community Schools,MI,260,1356
+1058,26,24540,Moran Township School District,MI,15,112
+4148,26,24570,Morenci Area Schools,MI,82,741
+10158,26,24600,Morley Stanwood Community Schools,MI,522,1735
+4234,26,24630,Morrice Area Schools,MI,64,683
+22299,26,24690,Mount Clemens Community School District,MI,821,3245
+14074,26,24720,Mount Morris Consolidated School District,MI,662,2219
+40690,26,24750,Mount Pleasant City School District,MI,660,4537
+5337,26,24810,Munising Public Schools,MI,61,531
+37368,26,24840,Muskegon City School District,MI,2168,5980
+10008,26,24870,Muskegon Heights School District,MI,1138,1998
+7058,26,25400,N.I.C.E. Community Schools,MI,69,1101
+8372,26,24960,Napoleon Community Schools,MI,114,1301
+8930,26,25020,Negaunee Public Schools,MI,69,1423
+4327,26,25140,New Buffalo Area School District,MI,45,498
+20332,26,25230,New Haven Community Schools,MI,300,3186
+3802,26,25290,New Lothrop Area Public School,MI,40,609
+11452,26,25320,Newaygo Public School District,MI,271,1837
+24932,26,25560,Niles Community School District,MI,649,3852
+3311,26,25650,North Adams-Jerome Schools,MI,78,493
+11406,26,25680,North Branch Area Schools,MI,229,1929
+2904,26,29220,North Central Area Schools,MI,53,395
+2279,26,30480,North Dickinson County Schools,MI,30,303
+4585,26,25780,North Huron School District,MI,98,527
+4130,26,25800,North Muskegon Public Schools,MI,61,660
+2052,26,25920,Northport Public School District,MI,16,167
+17432,26,25950,Northview Public School District,MI,235,2812
+42007,26,25980,Northville Public Schools,MI,174,7749
+27878,26,26010,Northwest School District,MI,420,3748
+5428,26,26040,Norway-Vulcan Area Schools,MI,71,814
+1547,26,26100,Nottawa Community School,MI,56,341
+38415,26,26130,Novi Community School District,MI,179,6997
+22891,26,26190,Oak Park City School District,MI,725,3470
+11286,26,26220,Oakridge Public Schools,MI,421,2210
+28662,26,26280,Okemos Public Schools,MI,258,4744
+6814,26,26370,Olivet Community Schools,MI,96,1055
+5463,26,26400,Onaway Area Community School District,MI,133,663
+73,26,26430,Oneida Township School District 3,MI,0,11
+3344,26,26490,Onekama Consolidated Schools,MI,52,407
+9182,26,26520,Onsted Community Schools,MI,96,1325
+3748,26,26550,Ontonagon Area Schools,MI,74,381
+16885,26,26760,Orchard View Schools,MI,512,2078
+12836,26,26970,Oscoda Area Schools,MI,353,1566
+14839,26,27060,Otsego Public Schools,MI,173,2457
+9079,26,27150,Ovid-Elsie Area Schools,MI,177,1460
+1471,26,27180,Owendale-Gagetown Area Schools,MI,26,234
+24481,26,27210,Owosso Public Schools,MI,662,3787
+26755,26,27240,Oxford Area Community Schools,MI,232,4791
+10184,26,27420,Parchment School District,MI,154,1611
+14107,26,27660,Paw Paw Public School District,MI,310,2310
+2529,26,27690,Peck Community School District,MI,77,425
+5185,26,27720,Pellston Public Schools,MI,74,639
+9066,26,27810,Pennfield School District,MI,183,1551
+2442,26,27840,Pentwater Public School District,MI,39,244
+9230,26,27900,Perry Public School District,MI,171,1432
+4736,26,27960,Pewamo-Westphalia Community School District,MI,21,926
+3501,26,28020,Pickford Public Schools,MI,33,358
+25976,26,28140,Pinckney Community Schools,MI,153,3375
+11282,26,28170,Pinconning Area Schools,MI,188,1598
+7986,26,28200,Pine River Area Schools,MI,249,1350
+3330,26,28500,Pittsford Area Schools,MI,95,551
+15791,26,28530,Plainwell Community Schools,MI,184,2721
+128489,26,28560,Plymouth-Canton Community Schools,MI,1325,21814
+83846,26,28740,Pontiac City School District,MI,3030,12061
+67994,26,28830,Port Huron Area School District,MI,1860,10206
+56192,26,28950,Portage Public Schools,MI,491,9587
+12812,26,29120,Portland Public School District,MI,151,2261
+1998,26,29130,Posen Consolidated School District,MI,36,255
+6047,26,29160,Potterville Public Schools,MI,98,946
+806,26,29190,Powell Township Schools,MI,5,55
+19201,26,27930,Public Schools of Petoskey,MI,244,2744
+8130,26,29250,Quincy Community School District,MI,243,1499
+2675,26,29340,Rapid River Public Schools,MI,50,339
+6485,26,29370,Ravenna Public Schools,MI,140,1220
+5248,26,29400,Reading Community Schools,MI,163,967
+24529,26,29460,Redford Union School District,MI,955,3804
+11322,26,29490,Reed City Area Public Schools,MI,369,1809
+5068,26,29520,Reese Public Schools,MI,81,750
+21769,26,29540,Reeths-Puffer Schools,MI,471,3660
+1431,26,29580,Republic-Michigamme Schools,MI,14,125
+12485,26,29670,Richmond Community Schools,MI,130,1889
+7767,26,29760,River Rouge School District,MI,744,1595
+8391,26,29790,River Valley School District,MI,134,1024
+12825,26,29910,Riverview Community School District,MI,255,1843
+99321,26,29940,Rochester Community School District,MI,481,17248
+45974,26,30030,Rockford Public Schools,MI,323,9397
+5332,26,30060,Rogers City Area Schools,MI,125,641
+38105,26,30090,Romeo Community Schools,MI,406,6320
+25609,26,30120,Romulus Community Schools,MI,1349,4749
+11663,26,15830,Roscommon Area Public Schools,MI,295,1268
+43848,26,30210,Roseville Community Schools,MI,1359,6716
+59793,26,30300,Royal Oak City School District,MI,215,5562
+8106,26,30360,Rudyard Area Schools,MI,209,1060
+52231,26,30390,Saginaw City School District,MI,3756,9490
+41151,26,30450,Saginaw Township Community Schools,MI,691,5569
+28414,26,30660,Saline Area Schools,MI,181,5406
+3470,26,30780,Sand Creek Community Schools,MI,41,535
+6809,26,30840,Sandusky Community School District,MI,203,1023
+7052,26,30930,Saranac Community Schools,MI,102,1176
+5623,26,30960,Saugatuck Public Schools,MI,34,623
+19332,26,30990,Sault Ste. Marie Area Schools,MI,494,2781
+5620,26,31020,Schoolcraft Community Schools,MI,45,1031
+8308,26,31320,Shelby Public Schools,MI,241,1344
+8635,26,31380,Shepherd Public School District,MI,182,1424
+289,26,00010,Sigel Township School District 3F,MI,5,39
+65,26,00011,Sigel Township School District 4F,MI,1,12
+88,26,31830,Sigel Township School District 6,MI,0,18
+164,26,32070,Sodus Township School District 5,MI,4,12
+12805,26,32300,South Haven Public Schools,MI,306,1785
+19955,26,32220,South Lake Schools,MI,293,2363
+54970,26,32250,South Lyon Community Schools,MI,385,9931
+23565,26,32280,South Redford School District,MI,809,3795
+75224,26,32310,Southfield Public School District,MI,1356,9334
+31127,26,32340,Southgate Community School District,MI,603,4177
+15049,26,32370,Sparta Area Schools,MI,227,2606
+13582,26,32550,Spring Lake Public Schools,MI,140,2479
+5614,26,32610,Springport Public Schools,MI,116,968
+6193,26,32640,St. Charles Community Schools,MI,103,890
+3799,26,00012,St. Ignace Area Schools,MI,63,436
+20033,26,32820,St. Johns Public Schools,MI,242,3185
+19158,26,32850,St. Joseph Public Schools,MI,125,2835
+10681,26,32880,St. Louis Public Schools,MI,179,1041
+11239,26,32940,Standish-Sterling Community School District,MI,248,1713
+1624,26,32970,Stanton Township Public Schools,MI,43,371
+4899,26,33000,Stephenson Area Public Schools,MI,68,579
+10474,26,33030,Stockbridge Community Schools,MI,127,1608
+17293,26,33090,Sturgis Public Schools,MI,557,3261
+4511,26,33120,Summerfield School District,MI,45,713
+2127,26,00019,Superior Central Schools,MI,47,294
+5973,26,33360,Suttons Bay Public Schools,MI,61,716
+8797,26,33410,Swan Valley School District,MI,102,1222
+24306,26,33420,Swartz Creek Community Schools,MI,549,3849
+7501,26,25350,Tahquamenon Area Schools,MI,194,880
+10760,26,33510,Tawas Area Schools,MI,205,1355
+68563,26,33540,Taylor School District,MI,2974,11098
+18279,26,33720,Tecumseh Public Schools,MI,161,3005
+2011,26,33750,Tekonsha Community Schools,MI,44,291
+18848,26,33810,Thornapple Kellogg School District,MI,271,3663
+18107,26,33840,Three Rivers Community Schools,MI,559,3051
+90276,26,33870,Traverse City Area Public Schools,MI,1034,12436
+17820,26,33900,Trenton Public Schools,MI,220,2597
+14219,26,33930,Tri County Area Schools,MI,323,2344
+71595,26,34260,Troy School District,MI,433,12409
+3859,26,34380,Ubly Community Schools,MI,66,609
+6211,26,34410,Union City Community Schools,MI,180,1097
+5235,26,34440,Unionville-Sebewaing Area School District,MI,106,776
+192212,26,34470,Utica Community Schools,MI,3139,29524
+49449,26,34560,Van Buren Public Schools,MI,1098,6662
+21174,26,34680,Van Dyke Public Schools,MI,1292,4074
+2165,26,34620,Vanderbilt Area Schools,MI,45,308
+4772,26,34650,Vandercook Lake Public Schools,MI,116,731
+8859,26,34710,Vassar Public Schools,MI,214,1424
+177,26,34860,Verona Township School District 1F,MI,4,25
+3932,26,34920,Vestaburg Community Schools,MI,133,641
+16048,26,34950,Vicksburg Community Schools,MI,134,2788
+2430,26,35010,Wakefield-Marenisco School District,MI,54,271
+2113,26,35040,Waldron Area Schools,MI,60,340
+1594,26,35130,Walkerville Rural Community School District,MI,61,288
+112155,26,35160,Walled Lake Consolidated Schools,MI,942,15564
+119932,26,35190,Warren Consolidated Schools,MI,3180,16401
+21831,26,35220,Warren Woods Public Schools,MI,482,3086
+78083,26,35310,Waterford School District,MI,829,9587
+1439,26,35340,Watersmeet Township School District,MI,21,187
+6210,26,35460,Watervliet School District,MI,176,1011
+20242,26,35520,Waverly Community Schools,MI,433,2814
+20519,26,35550,Wayland Union Schools,MI,260,3779
+90077,26,00015,Wayne-Westland Community School District,MI,3330,13588
+3965,26,35730,Webberville Community Schools,MI,76,712
+210,26,35790,Wells Township School District,MI,3,24
+32878,26,35820,West Bloomfield School District,MI,304,4598
+16560,26,35850,West Branch-Rose City Area Schools,MI,415,2189
+7354,26,32910,West Iron County Public Schools,MI,205,1042
+53976,26,35910,West Ottawa Public School District,MI,1081,9198
+13145,26,35940,Western School District,MI,207,2109
+19240,26,11640,Westwood Community Schools,MI,1437,3345
+5219,26,35970,Westwood Heights Schools,MI,345,900
+8146,26,36060,White Cloud Public Schools,MI,231,1207
+6427,26,36120,White Pigeon Community Schools,MI,160,1023
+467,26,36240,Whitefish Township Schools,MI,5,21
+4323,26,36270,Whiteford Agricultural School District,MI,28,690
+12494,26,36300,Whitehall School District,MI,307,2103
+9283,26,36330,Whitmore Lake Public Schools,MI,90,1153
+7083,26,36390,Whittemore-Prescott Area Schools,MI,294,1022
+10709,26,36420,Williamston Community Schools,MI,93,1852
+2968,26,36480,Wolverine Community Schools,MI,79,398
+34804,26,36485,Woodhaven-Brownstown School District,MI,789,5755
+24744,26,36540,Wyandotte City School District,MI,470,3442
+37004,26,36570,Wyoming Public Schools,MI,784,5601
+10909,26,36600,Yale Public Schools,MI,211,1802
+61138,26,36630,Ypsilanti Community Schools,MI,2028,7756
+35559,26,36660,Zeeland Public Schools,MI,377,7040
